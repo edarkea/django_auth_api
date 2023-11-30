@@ -1,0 +1,8 @@
+# Core
+Django==2.2
+
+# Servicios web
+djangorestframework
+django-cors-headers
+djangorestframework_simplejwt
+pillow
